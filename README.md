@@ -27,6 +27,6 @@ Currently working on a browser-based game called **Mind Clicker**.
 ---
 
 ### 📫 Connect with Me
-Coming soon: [LinkedIn](#), [Portfolio](#)
+Coming soon: [LinkedIn](www.linkedin.com/in/l-r-ba5355368), [Portfolio](#)
 
 ---
