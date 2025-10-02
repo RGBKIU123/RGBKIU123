@@ -25,6 +25,6 @@ I'm a student learning full-stack development by building cool projects.
 ---
 
 ### 📫 Connect with Me
-Coming soon: [LinkedIn](www.linkedin.com/in/lrgbkiu/)
+Coming soon: [LinkedIn]((https://www.linkedin.com/in/lrgbkiu/))
 
 ---
