@@ -1,8 +1,4 @@
-# Hi, I'm L 👋  
-Aspiring Web Developer 
-
-I'm a student learning full-stack development by building cool projects.  
-
+# Hi, I'm Luke!
 ---
 
 ### 🔧 Tech Stack
